@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311112158751",
+    "project_id": "tendencias-595fc",
+    "storage_bucket": "tendencias-595fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311112158751:android:0d64d19640b3a3cd714f2a",
+        "android_client_info": {
+          "package_name": "com.google.firebase.presents.flutter_tendencias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311112158751-5k7cm2ar9gd72ke401kmvunim6c9unlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQepdZfr-exeK9hX4x715WT_vhaY5XlO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311112158751-5k7cm2ar9gd72ke401kmvunim6c9unlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

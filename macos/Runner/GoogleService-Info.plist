@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>311112158751-j74vemsif3and469sufhpsgkov2rjt2t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.311112158751-j74vemsif3and469sufhpsgkov2rjt2t</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAK9E8S0QZcS413no8ALXYFI-kXCokPOEY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>311112158751</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.google.firebase.presents.flutterTendencias.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>tendencias-595fc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tendencias-595fc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:311112158751:ios:5d730ad590d81b2e714f2a</string>
+</dict>
+</plist>
